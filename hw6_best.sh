@@ -1,0 +1,1 @@
+python hw6_best.py $1 $2 
